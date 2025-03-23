@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full-Stack+.NET+Developer;ASP.NET+Core+Enthusiast;Continuous+Learner;Open-Source+Contributor" alt="Typing Animation" />
 </div>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssefmahmoud2004/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yossefmahmoud442004@gmail.com)
+
 ## 🛠️ Technical Arsenal
 
 ### 🔩 Backend Engineering
@@ -28,9 +32,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GHA-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/youssefmahmoud2004/) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -75,10 +76,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-m-roushdy&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline" />
 </div>
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssefmahmoud2004/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yossefmahmoud442004@gmail.com)
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=youssef-m-roushdy&label=Profile%20Views&color=0&icon=5&pretty=true" />
