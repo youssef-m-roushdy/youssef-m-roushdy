@@ -52,7 +52,7 @@
 ## 🏆 Highlight Projects
 
 ### HR Leave Management System
-[![GitHub](https://img.shields.io/badge/View_Code-181717?logo=github)]([https://github.com/youssef-m-roushdy/HR_LeaveManagement](https://github.com/youssef-m-roushdy/HR.LeaveManagement))
+[![GitHub](https://img.shields.io/badge/View_Code-181717?logo=github)](https://github.com/youssef-m-roushdy/HR.LeaveManagement)
 ![ASP.NET Core](https://img.shields.io/badge/-.NET%208-512BD4?logo=dotnet)
 ![CQRS](https://img.shields.io/badge/-CQRS-228B22?logo=bookstack)
 ![MediatR](https://img.shields.io/badge/-MediatR-008080)
