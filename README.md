@@ -76,7 +76,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-m-roushdy&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline" />
 </div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=youssef-m-roushdy&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</div>
