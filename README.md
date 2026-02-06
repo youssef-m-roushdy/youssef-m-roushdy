@@ -70,20 +70,8 @@ Full-Stack .NET Developer with expertise in building scalable, enterprise-grade 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-   <img src="https://github-profile-trophy.vercel.app/api?username=youssef-m-roushdy&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</div>
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-m-roushdy&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-m-roushdy&theme=github_dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" />
-</div>
-
 <div align="center">
   
   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=youssef-m-roushdy&theme=github-dark-blue&hide_border=true)
