@@ -74,26 +74,25 @@ Full-Stack .NET Developer with expertise in building scalable, enterprise-grade 
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=youssef-m-roushdy&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=4)
-  
+   <img src="https://github-profile-trophy.vercel.app/api?username=youssef-m-roushdy&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-m-roushdy&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-m-roushdy&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssef-m-roushdy&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-m-roushdy&theme=github_dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" />
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssef-m-roushdy&theme=github-dark-blue&hide_border=true)
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=youssef-m-roushdy&theme=github-dark-blue&hide_border=true)
   
 </div>
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-m-roushdy&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-m-roushdy&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)
   
 </div>
 
